@@ -3,13 +3,13 @@
 The following Python Jupyter Notebook based scripts help in analysing and visualing the current Covid-19 outbreak scenario. These are very simple Python code for anyone to run and analyse. Best thing is dataset is on 'github' and is directly imported.
 
 #### 1. Country_Active_Cases_Analysis_Plot.ipynb [Single country]
-This script plots 2 graph for a particular country. First graph shows the cumulative Confirmed cases of that country with days, the graph begins when these cases have crossed 100. Also predictive lines of cases doubling every 3/5/10 days has been plotted. Second graph shows the cumulative Active cases of the same country, it also provides the growth rate of the pandemic for past 5 days and correspending doubling days. 
+This script plots 2 graph for a particular country. First graph shows the cumulative Confirmed cases of that country with days, the graph begins when these cases have crossed 100. Also predictive lines of cases doubling every 3/5/10 days has been plotted. Second graph shows the cumulative Active cases of the same country, it also provides the growth rate of the pandemic for past 5 days and corresponding doubling days. 
 
 #### 2. Country_Confirmed_Cases_Moving_Average_Plot.ipynb	[Single country]
 This script plots 7-day moving average of confirmed cases (daily coronavirus positive cases) for a particular country. It also shows daily confirmed cases as deviations from the moving average.
 
 #### 3. World_Active_Death_Recovered_Cases_Plot.ipynb [Multiple countries]
-This script plots stacked bar for multile countries with their Active, Death and Recovered (ADR) cases over all this time. One could see how each country has tackled this Coronavirus outbreak and which countries has flattened the curve. 
+This script plots stacked bar for multile countries with their Active, Death and Recovered (ADR) cases over all this time. One could see how each country has tackled this Coronavirus outbreak and which countries have flattened the curve. 
 
 #### 4. World_Confirmed_Cases_Plot.ipynb [Multiple countries]
 This script plots Country-wise cumulative confirmed cases data over number of days in a single graph. The data takes in days since the countries got their first 100 cases. One can focus how each country responded to the pandemic since. 
