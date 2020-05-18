@@ -3,7 +3,7 @@
 The following Python Jupyter Notebook based scripts help in analysing and visualing the current Covid-19 outbreak scenario. These are very simple Python code for anyone to run and analyse. Best thing is dataset is on 'github' and is directly imported.
 
 #### 1. Country_Active_Cases_Analysis_Plot.ipynb [Single country]
-This script plots 2 graph for a particular country. First graph shows the cumulative Confirmed cases of that country with days, the graph begins when these cases have crossed 100. Also predictive lines of cases doubling every 3/5/10 days has been plotted. Second graph shows the cumulative Active cases of the same country, it also provides the growth rate of the pandemic for past 5 days and corresponding doubling days. 
+This script plots 2 graph for a particular country. First graph shows the cumulative Confirmed cases of that country with days, the graph begins when these cases have crossed 1000. Also predictive lines of cases doubling every 5/10 days has been plotted. Second graph shows the cumulative Active cases of the same country, it also provides the growth rate of the pandemic for past 5 days and corresponding doubling days. 
 
 #### 2. Country_Confirmed_Cases_Moving_Average_Plot.ipynb	[Single country]
 This script plots 7-day moving average of confirmed cases (daily coronavirus positive cases) for a particular country. It also shows daily confirmed cases as deviations from the moving average.
